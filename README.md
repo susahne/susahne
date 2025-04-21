@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @susahne
-- 👀 I'm interested in creating Usable Interactive Data-Driven Web Applications.
+- 👀 I'm interested in developing usable, accessible, data-driven web applications.
 
 <!---
 susahne/susahne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
